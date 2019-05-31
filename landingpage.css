@@ -1,0 +1,199 @@
+body,html{
+  height: 100% !important;
+  width: 100%;
+
+}
+
+
+.logo{
+  height:70px ;
+  width: 60px;
+  margin-left: -20px;
+}
+.logo.std{
+  height: 100px !important;
+  width: 90px !important;
+}
+.nav-item{
+  margin-left: 100px;
+}
+.nav-link{
+  float:right !important;
+  color: #ffffff;
+
+}
+.nav-link:hover{
+  color:#FF5252;
+}
+.navbar{
+height:70px;
+width: 100%;
+background-color: black;
+
+}
+.navbar.std{
+  width: 90px;
+  height: 100px;
+  background-color: #ffffff;
+}
+.studentlogin{
+    background-image: url("C:/Users/Nancy/Desktop/projects/reg dashboard/images/dope.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+  }
+  .landingpage{
+    background-image: url("C:/Users/Nancy/Desktop/projects/reg dashboard/images/student.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+  }
+  .contactus{
+    background-image: url("C:/Users/Nancy/Desktop/projects/reg dashboard/images/contact.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+  }
+  .managementlogin{
+    background-image: url("C:/Users/Nancy/Desktop/projects/reg dashboard/images/staff.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+
+
+
+  }
+  .studentsignup{
+    background-image: url("C:/Users/Nancy/Desktop/projects/reg dashboard/images/studentsignup.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+  }
+  .overlay {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .description {
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+    color: #ffffff;
+  }
+  .description.std{
+    margin-top: 100px;
+  }
+  .description .stdupf{
+    margin-top: 0px !important;
+  }
+  .description h1 {
+    color: #ffffff;
+  }
+  .description h4 {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.5;
+  }
+  .description button {
+  background:#FF5252;
+  border-radius: 0;
+  color:#fff;
+}
+.description button:hover {
+  border:1px solid #fff;
+  background:#fff;
+  color:#FF5252;
+}
+.dropdown-item:hover{
+  background-color:#FFF6F6;
+}
+
+.display{
+  background-color: #ffffff;
+  float: left;
+}
+.col-md-6 .two{
+  float: right;
+  margin-left: 1000px;
+
+}
+.display{
+
+  margin-top: 200px;
+  margin-left: 60px;
+}
+.display.cus{
+margin-left:500px;
+}
+.display.stdupf{
+  margin-top: 0px !important;
+  width: 450px;
+
+}
+.form-control{
+  height: 50px;
+  width: 300px;
+  border-color: #BDBDBD;
+  border-radius: 0px;
+  margin-left: 30px;
+  margin-top: 20px;
+  margin-right: 30px;
+
+
+
+}
+.form-control.stdup{
+height: 40px;
+width: 200px;
+margin-left: 7px;
+margin-right: 1px;
+
+
+}
+.form-control.stdup.lined{
+width: 440px;
+height: 40px;
+margin-left: 20px;
+
+}
+
+.btn{
+  background-color: #FF5252;
+  border-radius: 0px;
+  border: 0px;
+  width: 250px !important;
+  height: 50px !important;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+}
+.btn.stdup{
+  margin-bottom: 10px;
+}
+.btn:hover{
+  background-color: #ffffff;
+  color:  #FF5252;
+}
+.clabel{
+  margin-left: -400px;
+  color: #ffffff;
+}
+p23{
+  margin-left: 50px;
+}
